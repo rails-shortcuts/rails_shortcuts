@@ -15,7 +15,7 @@ Make sure to visually test and see how this affects your page in various resolut
 
 ## Code
 
-in your , eg on an index page that allows you to delete items in a table. Put this code 
+in your page view, eg on an index page that allows you to delete items in a table. Put this code 
 ** view.html.erb
 ```erb
 <div data-controller="destroyer">
